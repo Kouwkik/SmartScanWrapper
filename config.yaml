@@ -1,0 +1,6 @@
+# конфигурационный файл с настройками исключений и уровней
+
+exclude_rules:
+  - rule_id_1
+  - rule_id_2
+severity_threshold: WARNING # интересуют ошибки уровня WARNING и выше (ERROR, CRITICAL)
